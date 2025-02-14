@@ -36,7 +36,7 @@ During the simulation, you can:
 
 ## **3. Bus Simulator Interface Features**  
 
-### **Left-Side Control Panel**
+### **3.1 Left-Side Control Panel**
 The **left-side panel** provides various functionalities:  
 
 - **Minimal Mode** → Toggle between a **3D map** view or a **single-route visualization**.  
@@ -56,7 +56,7 @@ The **left-side panel** provides various functionalities:
   - **Number of dispatched buses**  
   - **Number of buses currently on the road**  
 
-### **Map View Options**  
+### **3.2 Map View Options**  
 The simulator supports **three different viewpoints** for better visualization:  
 - **Top View** → Overhead perspective for a **global comparison of routes**.  
 - **Rotated View** → Switch between **South-side** and **North-side perspectives** for **enhanced 3D visualization**.  
