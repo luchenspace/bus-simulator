@@ -17,7 +17,7 @@ This guide provides step-by-step instructions on how to use a **policy `.zip` fi
 Ensure you have the required **`.zip` policy file** downloaded to your local device.
 
 ### **Step 2: Upload the Policy File to the Simulator**  
-1. Open the **Bus Simulator**: [**Click Here**](https://bus-holding-control-simulator.vercel.app/)  
+1. Open the **Bus Simulator**: [**https://bus-holding-control-simulator.vercel.app/**] 
 2. Click **"Upload Model Output"** on the interface.  
 3. Select the downloaded **`.zip` file** from your local storage.  
 4. Click **"Upload"** to proceed.  
@@ -63,4 +63,4 @@ The simulator supports **three different viewpoints** for better visualization:
 
 ---
 
-**Now you are ready to explore bus operations with the Bus Simulator! 🚍📊**
+**Now you are ready to explore bus operations with the Bus Simulator!**
