@@ -56,7 +56,7 @@ The **left-side panel** provides various functionalities:
   - **Number of dispatched buses**  
   - **Number of buses currently on the road**  
 
-### **Step 5: Map View Options**  
+### **Map View Options**  
 The simulator supports **three different viewpoints** for better visualization:  
 - **Top View** → Overhead perspective for a **global comparison of routes**.  
 - **Rotated View** → Switch between **South-side** and **North-side perspectives** for **enhanced 3D visualization**.  
